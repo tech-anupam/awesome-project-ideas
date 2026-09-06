@@ -1,0 +1,50 @@
+# Cybersecurity
+
+40 buildable project leads for security and engineering teams. The research signal for this category is [NIST SSDF](https://csrc.nist.gov/projects/ssdf). Each lead needs independent source checking and an existing-solution review before it becomes a full entry.
+
+## Ideas
+
+1. **vulnerability remediation evidence ledger**: Build a evidence ledger for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+2. **vulnerability remediation triage board**: Build a triage board for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+3. **vulnerability remediation expiry planner**: Build a expiry planner for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+4. **vulnerability remediation configuration diff**: Build a configuration diff for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+5. **vulnerability remediation drill kit**: Build a drill kit for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+6. **vulnerability remediation control map**: Build a control map for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+7. **vulnerability remediation exception register**: Build a exception register for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+8. **vulnerability remediation risk review**: Build a risk review for security and engineering teams working on vulnerability remediation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+9. **access review evidence ledger**: Build a evidence ledger for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+10. **access review triage board**: Build a triage board for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+11. **access review expiry planner**: Build a expiry planner for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+12. **access review configuration diff**: Build a configuration diff for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+13. **access review drill kit**: Build a drill kit for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+14. **access review control map**: Build a control map for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+15. **access review exception register**: Build a exception register for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+16. **access review risk review**: Build a risk review for security and engineering teams working on access review. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+17. **secrets rotation evidence ledger**: Build a evidence ledger for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+18. **secrets rotation triage board**: Build a triage board for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+19. **secrets rotation expiry planner**: Build a expiry planner for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+20. **secrets rotation configuration diff**: Build a configuration diff for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+21. **secrets rotation drill kit**: Build a drill kit for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+22. **secrets rotation control map**: Build a control map for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+23. **secrets rotation exception register**: Build a exception register for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+24. **secrets rotation risk review**: Build a risk review for security and engineering teams working on secrets rotation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+25. **release provenance evidence ledger**: Build a evidence ledger for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+26. **release provenance triage board**: Build a triage board for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+27. **release provenance expiry planner**: Build a expiry planner for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+28. **release provenance configuration diff**: Build a configuration diff for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+29. **release provenance drill kit**: Build a drill kit for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+30. **release provenance control map**: Build a control map for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+31. **release provenance exception register**: Build a exception register for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+32. **release provenance risk review**: Build a risk review for security and engineering teams working on release provenance. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+33. **incident follow-up evidence ledger**: Build a evidence ledger for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+34. **incident follow-up triage board**: Build a triage board for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+35. **incident follow-up expiry planner**: Build a expiry planner for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+36. **incident follow-up configuration diff**: Build a configuration diff for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+37. **incident follow-up drill kit**: Build a drill kit for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+38. **incident follow-up control map**: Build a control map for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+39. **incident follow-up exception register**: Build a exception register for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+40. **incident follow-up risk review**: Build a risk review for security and engineering teams working on incident follow-up. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+
+## Turn a lead into a project
+
+Use the repository [project template](../ideas/TEMPLATE.md). Document the problem, users, existing approaches, material gap, first version, and sources before submitting a pull request.

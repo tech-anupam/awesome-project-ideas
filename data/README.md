@@ -1,0 +1,50 @@
+# Data and public information
+
+40 buildable project leads for data practitioners and researchers. The research signal for this category is [OpenAlex API](https://help.openalex.org/api/). Each lead needs independent source checking and an existing-solution review before it becomes a full entry.
+
+## Ideas
+
+1. **dataset release provenance card**: Build a provenance card for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+2. **dataset release quality checker**: Build a quality checker for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+3. **dataset release change diary**: Build a change diary for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+4. **dataset release metadata scorecard**: Build a metadata scorecard for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+5. **dataset release download helper**: Build a download helper for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+6. **dataset release comparison tool**: Build a comparison tool for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+7. **dataset release citation linter**: Build a citation linter for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+8. **dataset release release checklist**: Build a release checklist for data practitioners and researchers working on dataset release. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+9. **public dashboard provenance card**: Build a provenance card for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+10. **public dashboard quality checker**: Build a quality checker for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+11. **public dashboard change diary**: Build a change diary for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+12. **public dashboard metadata scorecard**: Build a metadata scorecard for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+13. **public dashboard download helper**: Build a download helper for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+14. **public dashboard comparison tool**: Build a comparison tool for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+15. **public dashboard citation linter**: Build a citation linter for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+16. **public dashboard release checklist**: Build a release checklist for data practitioners and researchers working on public dashboard. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+17. **data licence provenance card**: Build a provenance card for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+18. **data licence quality checker**: Build a quality checker for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+19. **data licence change diary**: Build a change diary for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+20. **data licence metadata scorecard**: Build a metadata scorecard for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+21. **data licence download helper**: Build a download helper for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+22. **data licence comparison tool**: Build a comparison tool for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+23. **data licence citation linter**: Build a citation linter for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+24. **data licence release checklist**: Build a release checklist for data practitioners and researchers working on data licence. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+25. **schema update provenance card**: Build a provenance card for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+26. **schema update quality checker**: Build a quality checker for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+27. **schema update change diary**: Build a change diary for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+28. **schema update metadata scorecard**: Build a metadata scorecard for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+29. **schema update download helper**: Build a download helper for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+30. **schema update comparison tool**: Build a comparison tool for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+31. **schema update citation linter**: Build a citation linter for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+32. **schema update release checklist**: Build a release checklist for data practitioners and researchers working on schema update. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+33. **source citation provenance card**: Build a provenance card for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+34. **source citation quality checker**: Build a quality checker for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+35. **source citation change diary**: Build a change diary for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+36. **source citation metadata scorecard**: Build a metadata scorecard for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+37. **source citation download helper**: Build a download helper for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+38. **source citation comparison tool**: Build a comparison tool for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+39. **source citation citation linter**: Build a citation linter for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+40. **source citation release checklist**: Build a release checklist for data practitioners and researchers working on source citation. Start by recording the current state, making the next action clear, and keeping a reviewable evidence trail.
+
+## Turn a lead into a project
+
+Use the repository [project template](../ideas/TEMPLATE.md). Document the problem, users, existing approaches, material gap, first version, and sources before submitting a pull request.
