@@ -1,0 +1,35 @@
+name: Suggest an idea
+description: Propose a researched project opportunity.
+title: "idea: "
+labels: ["status:review"]
+body:
+  - type: markdown
+    attributes:
+      value: "A proposal needs evidence and a meaningful gap. Generic combinations are closed without review."
+  - type: input
+    id: problem
+    attributes:
+      label: Problem and affected users
+      placeholder: Who faces this problem, and what happens today?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link primary sources, public data, research, or issue trackers.
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: Existing approaches and the gap
+      description: Name comparable projects and describe the material difference.
+    validations:
+      required: true
+  - type: textarea
+    id: mvp
+    attributes:
+      label: Smallest useful version
+    validations:
+      required: true

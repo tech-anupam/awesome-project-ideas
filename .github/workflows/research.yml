@@ -1,0 +1,33 @@
+name: Research inbox update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tools/research.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create pull request for new research leads
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "chore: update research inbox"
+          branch: automation/research-inbox
+          delete-branch: true
+          title: "chore: review research inbox update"
+          body: |
+            This pull request contains source metadata collected from approved public APIs.
+
+            It does not add ideas automatically. Review sources and duplicate checks before turning a lead into an entry.

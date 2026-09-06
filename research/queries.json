@@ -1,0 +1,12 @@
+{
+  "github": [
+    "topic:accessibility stars:>30 archived:false",
+    "topic:climate-tech stars:>20 archived:false",
+    "topic:developer-tools stars:>50 archived:false"
+  ],
+  "openalex": [
+    "digital accessibility",
+    "software maintenance",
+    "climate adaptation tools"
+  ]
+}
